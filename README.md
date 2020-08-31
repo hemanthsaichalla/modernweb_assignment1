@@ -1,10 +1,10 @@
 ## A Page about Vecta Corporation!
 
-_The title of the page says:_
+#### _The title of the page says:_
 
 Welcome to vecta corporation.
 
-**Contents of the web page:**
+### Contents of the web page:
 
 a) Welcome note
 
@@ -21,3 +21,5 @@ c) Client Testimonials
 d) Contact Information
 
 e) About the team
+
+For more details visit [About Vecta Corporation](https://www.bloomberg.com/profile/company/VER/H:CN)
