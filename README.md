@@ -1,6 +1,6 @@
 # modernweb_assignment1
  
-A Page about Vecta Corporation!
+# A Page about Vecta Corporation!
 The title of the page says 
    Welcome to vecta corporation.
 Contents of the web page:
